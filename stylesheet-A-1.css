@@ -110,7 +110,7 @@ a{
     border-bottom: 1px solid #D4e1ec;
     border-radius: 13px;
 }
-@media only screen and ( max-width: 576px){
+/*@media only screen and ( max-width: 576px){
     #ctr1{
         width: 50%;
     }
@@ -169,7 +169,7 @@ a{
         width: 100%;
     }
 
-}
+} */
 
 
 
