@@ -110,7 +110,7 @@ a{
     border-bottom: 1px solid #D4e1ec;
     border-radius: 13px;
 }
-@media only screen and ( max-width: 576px;){
+@media only screen and ( max-width: 576px){
     #ctr1{
         width: 50%;
     }
@@ -122,7 +122,7 @@ a{
     }
 
 }
-@media only screen and ( max-width: 768px;){
+@media only screen and ( max-width: 768px){
     #ctr1{
         width: 50%;
     }
@@ -134,7 +134,7 @@ a{
     }
 
 }
-@media only screen and ( max-width: 992px;){
+@media only screen and ( max-width: 992px){
     #ctr1{
         width: 50%;
     }
@@ -146,7 +146,7 @@ a{
     }
 
 }
-@media only screen and ( max-width: 1200px;){
+@media only screen and ( max-width: 1200px){
     #ctr1{
         width: 50%;
     }
@@ -158,7 +158,7 @@ a{
     }
 
 }
-@media only screen and ( max-width: 1400px;){
+@media only screen and ( max-width: 1400px){
     #ctr1{
         width: 50%;
     }
